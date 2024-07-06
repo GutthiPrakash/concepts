@@ -35,6 +35,6 @@ The JavaScript can directly manipulate the DOM tree, CSS styles and that leads t
 
 ## References
 
-* [ How browser works ]  (https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
-* [ DOM & How Does HTML Rendering Happen in Browsers? ]  (https://engineering.teknasyon.com/what-is-the-dom-how-does-html-rendering-happen-in-browsers-cbeb12bdfea6)
-* [ How does a browser work? ]  (https://youtu.be/5rLFYtXHo9s?si=1JZaqvzOWH55WFCt)
+* [ How browser works ](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
+* [ DOM & How Does HTML Rendering Happen in Browsers? ](https://engineering.teknasyon.com/what-is-the-dom-how-does-html-rendering-happen-in-browsers-cbeb12bdfea6)
+* [ How does a browser work? ](https://youtu.be/5rLFYtXHo9s?si=1JZaqvzOWH55WFCt)
